@@ -18,7 +18,7 @@ _Send or forward_ a text message containing links and I will:
 *Example message:*
 `Hey, check this out! https://m.soundcloud.com/falling-ethics/jk-flesh-static-demon-fexelvn004 and also https://shitmat.bandcamp.com/track/amen-babylon-2016-mix and youtu.be/Mdzy5RKn434`
 
-👨🏻‍💻 *Developed by @gpchelkin*:
+👨🏻‍💻 *Developed by @A_god*:
 [🐝 Channel](https://t.me/A_god) | [🐝 Homepage](https://t.me/A_god)
 [🌟 Star me on GitHub!](https://github.com/sfah007/soundcloud) | [⚠️ Report an issue](https://github.com/sfah007/soundcloud/issues)
 💵 Support development:
