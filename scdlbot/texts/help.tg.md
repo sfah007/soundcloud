@@ -19,10 +19,10 @@ _Send or forward_ a text message containing links and I will:
 `Hey, check this out! https://m.soundcloud.com/falling-ethics/jk-flesh-static-demon-fexelvn004 and also https://shitmat.bandcamp.com/track/amen-babylon-2016-mix and youtu.be/Mdzy5RKn434`
 
 👨🏻‍💻 *Developed by @gpchelkin*:
-[🐝 Channel](https://t.me/ggpchelkin) | [🐝 Homepage](https://pchelk.in)
-[🌟 Star me on GitHub!](https://github.com/gpchelkin/scdlbot) | [⚠️ Report an issue](https://github.com/gpchelkin/scdlbot/issues)
+[🐝 Channel](https://t.me/A_god) | [🐝 Homepage](https://t.me/A_god)
+[🌟 Star me on GitHub!](https://github.com/sfah007/soundcloud) | [⚠️ Report an issue](https://github.com/sfah007/soundcloud/issues)
 💵 Support development:
-[PayPal](http://paypal.me/ggpchelkin/200) | [Ko-fi](https://ko-fi.com/gpchelkin) | [Tinkoff](https://www.tinkoff.ru/sl/Acd7Jamf4YM) | [Yandex.Money](http://money.yandex.ru/to/41001421333857/200)
+[PayPal](http://paypal.me/sfah007) |
 
-👩🏻‍🎨 Logo by `@lowonbudget` | [🖼️ Behance](https://www.behance.net/lowonbudget)
-🎶 Inspired by `@electrocircle` | [⚡⚫ Channel](https://t.me/Eklight)
+👩🏻‍🎨 Logo by `@A_god` | [🖼️ Behance](https://www.behance.net/sfah007)
+🎶 Inspired by `@A_god` | [⚡⚫ Channel](https://t.me/A_god)
